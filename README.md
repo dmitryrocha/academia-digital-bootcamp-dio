@@ -94,7 +94,7 @@ Se possível:
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la") e aperfeiçoado por [Dmitry Rocha](https://github.com/dmitryrocha/).
 
 
 
