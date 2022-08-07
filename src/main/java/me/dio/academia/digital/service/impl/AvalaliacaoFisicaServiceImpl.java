@@ -39,7 +39,7 @@ public class AvalaliacaoFisicaServiceImpl implements IAvaliacaoFisicaService {
 
     @Override
     public List<AvaliacaoFisica> getAll() {
-        return null;
+        return repository.findAll();
     }
 
     @Override
